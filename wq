@@ -1,0 +1,29 @@
+t push --force origin master
+
+
+
+
+
+
+
+
+
+Initial commit for GitDemo
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch master
+#
+# Initial commit
+#
+# Changes to be committed:
+#	new file:   .classpath
+#	new file:   .project
+#	new file:   .settings/org.eclipse.jdt.core.prefs
+#	new file:   .settings/org.eclipse.m2e.core.prefs
+#	new file:   org/water/Water.java
+#	new file:   pom.xml
+#	new file:   src/test/java/org/water/Waterski.java
+#	new file:   target/test-classes/org/water/Waterski.class
+#
